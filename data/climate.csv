@@ -1,0 +1,9 @@
+Site,L_gs_mo,GST_C,MAT_C,Year_start,Year_end,GS_start,GS_end,MAP_mm,Source_GS,Source_temp,Source_precip
+AND,6,13.80514,8.773487,1973,2011,April,Sept,1578.4,Schowalter et al. 1991,Zhou et al. (2016),Zhou et al. (2016)
+BCI,7.594520548,25.6136,25.71382,1984,2013,04-May,21-Dec,2383,"Average wet/dry dates 1991-2012, Meteorology and Hydrology Branch, Panama Canal Authority, Republic of Panama",Zhou et al. (2016),Zhou et al. (2016)
+CAP,5,12.89079634,6.778860181,2019,2020,May,Sept,4973,Stan and Daniels 2014,Michaletz lab weather stations,"Pallisade 2018-2022 data, Peter Marshall, Metro Vancouver"
+CWT,7,17.61122,12.62168,1984,2013,April,Oct,1853.8,Vose and Swank 1994,Zhou et al. (2016),Zhou et al. (2016)
+HFR,5.424657534,16.87873,8.268253,2001/2002,2013,128,293,1128.7,"Phenology of Woody Species at Harvard Forest since 1990 (dataset numbers hf003-03 spring phenology and hf003-04 fall phenology), John O'Keefe, Harvard Forest",Zhou et al. (2016),Zhou et al. (2016)
+LUQ,12,23.61466,23.61466,2001,2010,1,365,3069.2,"Alonso Ramirez, El Verde Field Station",Zhou et al. (2016),Zhou et al. (2016)
+NWT,5.35890411,8.811617,2.505485,1996,2012,127,290,481.6,Hu et al. 2010,Zhou et al. (2016),Zhou et al. (2016)
+PSR,7.002739726,25.29655047,25.72328362,2012,2019/2020,99,312,1326.557143,Vargas G et al. 2023,"Departamento de Información Meteorológica, Instituto Meteorológico Nacional","Departamento de Información Meteorológica, Instituto Meteorológico Nacional"
